@@ -1,4 +1,4 @@
- Student Result Management System (C++)
+ Student Result Management System 
  Introduction
 
 The Student Result Management System is a simple and efficient C++ project that helps in managing student academic records digitally.
